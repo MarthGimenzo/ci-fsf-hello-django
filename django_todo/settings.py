@@ -26,7 +26,7 @@ SECRET_KEY = '7p_g_b=w5(f^niya@75z1x$l#-k%@!#6-ml-1!ecmp5ses52ws'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['joukedevries-todo-app.herokuapp.com']
 
 
 # Application definition
